@@ -4,11 +4,38 @@
 ##
 ### Microbit
 * [Makecode網址](https://makecode.microbit.org)
+#### 硬體
+* 硬體圖片: ![balance](https://github.com/jumbokh/uav-class/blob/main/advance/Microbit/images/balance.jpg)
+* 操作影片: ![影片](https://github.com/jumbokh/uav-class/blob/main/advance/Microbit/images/balance-ball.mp4)
+#### 編程(coding)
+* [Home](https://github.com/jumbokh/uav-class/blob/main/advance/Microbit/images/import-code.JPG)
+    * [網址](https://makecode.microbit.org)
+    * ![home](https://github.com/jumbokh/uav-class/blob/main/advance/Microbit/images/import-code.JPG)
+    * ![import](https://github.com/jumbokh/uav-class/blob/main/advance/Microbit/images/import-code1.JPG)
+* [平衡程式](https://github.com/jumbokh/uav-class/blob/main/advance/Microbit/microbit-balance-2.hex)
 ### Webduino
 #### [軟體下載](https://webbit.webduino.io/tutorials/doc/zh-tw/education/info/toolbar.html)
 * [官網教育站](https://md.kingkit.codes/s/s0BrFMhjt)
 * [Webduino Blockly](https://blockly.webduino.io/)
 * [Webduino Cloudly](https://blocklypro.webduino.io/dashboard)
+* ![image1](https://github.com/jumbokh/uav-class/blob/main/advance/Webduino/images/microbit-code.JPG)
+* ![demo code](https://github.com/jumbokh/uav-class/blob/main/advance/Webduino/images/balance-main.JPG)
+* ![demo code fun](https://github.com/jumbokh/uav-class/blob/main/advance/Webduino/images/balance-fun.JPG)
+#### 實驗
+* [實驗一: 移動紅色怪獸並顯示位置](https://github.com/jumbokh/uav-class/blob/main/advance/Webduino/Webduino-class1.json)
+    * ![image1](https://github.com/jumbokh/uav-class/blob/main/advance/Webduino/images/Lab1-out.JPG)
+* [實驗二: 加右邊界彈回](https://github.com/jumbokh/uav-class/blob/main/advance/Webduino/Webduino-class2.json)
+    * ![image2](https://github.com/jumbokh/uav-class/blob/main/advance/Webduino/images/Lab2-out.JPG)
+* [實驗三: 函數](https://github.com/jumbokh/uav-class/blob/main/advance/Webduino/Webduino-class3.json)
+    * ![image3](https://github.com/jumbokh/uav-class/blob/main/advance/Webduino/images/Lab3-code1.JPG)
+* [實驗四: 增加綠色冠獸當寶](https://github.com/jumbokh/uav-class/blob/main/advance/Webduino/Webduino-class4.json)
+    * ![image4](https://github.com/jumbokh/uav-class/blob/main/advance/Webduino/images/Lab4-out.JPG)
+* [實驗五: 怪獸亂數掉落](https://github.com/jumbokh/uav-class/blob/main/advance/Webduino/Webduino-class5.json)
+    * ![image5](https://github.com/jumbokh/uav-class/blob/main/advance/Webduino/images/Lab5-out.JPG)
+* [實驗六: 加分數](https://github.com/jumbokh/uav-class/blob/main/advance/Webduino/Webduino-class6.json)
+    * ![image6](https://github.com/jumbokh/uav-class/blob/main/advance/Webduino/images/Lab6-code.JPG)
+* [實驗七: 完整demo](https://github.com/jumbokh/uav-class/blob/main/advance/Webduino/Webduino-monster-demo.json)
+    * ![image7](https://github.com/jumbokh/uav-class/blob/main/advance/Webduino/images/Lab7-out.JPG)
 ##
 ### codrone
 * [官網camp](https://learn.robolink.com/course/codrone-mini-with-blockly/)
