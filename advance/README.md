@@ -8,7 +8,8 @@
 ### Microbit
 * [Makecode網址](https://makecode.microbit.org)
 #### 硬體
-* 硬體圖片: ![balance](https://github.com/jumbokh/uav-class/blob/main/advance/Microbit/images/balance.jpg =x250)
+* 硬體圖片: <img src="advance/Microbit/images/balance.jpg" width="200"> 
+* ![balance](https://github.com/jumbokh/uav-class/blob/main/advance/Microbit/images/balance.jpg)
 * 操作影片: ![影片](https://github.com/jumbokh/uav-class/blob/main/advance/Microbit/images/balance-thumb.JPG)("https://github.com/jumbokh/uav-class/blob/main/advance/Microbit/images/balance-ball.mp4")
 #### 編程(coding)
 * [Home](https://github.com/jumbokh/uav-class/blob/main/advance/Microbit/images/import-code.JPG)
