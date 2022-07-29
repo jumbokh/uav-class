@@ -2,6 +2,10 @@
 ### 講義
 * [無人機扎根教育進階營隊 ppt](https://github.com/jumbokh/uav-class/blob/main/advance/%E7%84%A1%E4%BA%BA%E6%A9%9F%E6%89%8E%E6%A0%B9%E6%95%99%E8%82%B2%E7%87%9F%E9%9A%8A%E6%B4%BB%E5%8B%95-%E9%80%B2%E9%9A%8E%E7%87%9F%E9%9A%8A-v3.pdf)
 ##
+### 參考
+* [How Does A Helicopter Work: Everything You Need To Know About Helicopters](https://www.youtube.com/watch?v=YJBhWVDArLo&ab_channel=ScienceABC)
+* [單人機](https://www.facebook.com/hsieh.chitai/videos/1245023569592924?locale=zh_TW)
+* [Micro:bit user guide](https://microbit.org/get-started/user-guide/overview/)
 ### 行程
 * ![TimeLine](https://user-images.githubusercontent.com/10006576/181717632-8d543f69-4e14-4ab6-b90e-cdd689e0990b.png)
 ##
